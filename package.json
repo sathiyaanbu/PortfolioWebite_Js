@@ -1,0 +1,23 @@
+{
+  "name": "portfoliowebite_js",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathiyaanbu/PortfolioWebite_Js.git"
+  },
+  "author": "Sathiya anbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathiyaanbu/PortfolioWebite_Js/issues"
+  },
+  "homepage": "https://github.com/sathiyaanbu/PortfolioWebite_Js#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
